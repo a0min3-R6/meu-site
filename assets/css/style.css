@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{ 
+    color: blanchedalmond;
+    background-color: gray;
+    font-family: 'Dancing Script', cursive;
+    font: 12px;
+}
+
+table,tr,th,td{
+    border-style: solid;
+    border-width: 1px;
+    border-collapse: collapse;
+    background-color: cadetblue;
+    /*border-color: aquamarine;*/
+}
+
+div.tabela{
+    text-align: center;
+    background-color: coral;
+}
+
+table{
+    margin: auto;
+}
+
+div#sobre{
+    font: small;
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(53, 100, 15)
+}
+
+h3{
+    text-align: center;
+    margin: auto;
+    font-size: 0.75rem;
+}
+
